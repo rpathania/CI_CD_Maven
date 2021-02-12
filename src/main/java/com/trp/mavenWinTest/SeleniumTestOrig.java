@@ -19,6 +19,8 @@ public class SeleniumTestOrig {
 		driver.get("https://www.google.com");
 		
 		System.out.println("Completed....");
+		
+		System.out.println("In new branch");
 		driver.quit();
 
 	}
